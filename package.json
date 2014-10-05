@@ -1,0 +1,29 @@
+{
+	"name": "json-cleaner",
+	"version": "1.0.0",
+	"description": "Clean comments from json (any kind of comment)",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/mauriciogior/json-cleaner.git"
+	},
+	"keywords": [
+		"clean",
+		"comment",
+		"json"
+	],
+	"author": "Mauricio Giordano <mauricio.c.giordano@gmail.com>",
+	"licenses": [
+		{
+			"url": "https://github.com/mauriciogior/json-cleaner/blob/master/LICENSE",
+			"type": "GPL v2"
+		}
+	],
+	"bugs": {
+		"url": "https://github.com/mauriciogior/json-cleaner/issues"
+	},
+	"homepage": "https://github.com/mauriciogior/json-cleaner"
+}
